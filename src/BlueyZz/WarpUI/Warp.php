@@ -39,7 +39,7 @@ class Warp extends PluginBase implements Listener {
                 if($sender instanceof Player) {
                     $this->wui($sender);
                 }else{
-                    $sender->sendMessage("Gunakan Command Ini Di Ingame")
+                    $sender->sendMessage("Gunakan Command Ini Di Ingame");
                 }
             break;
         }
