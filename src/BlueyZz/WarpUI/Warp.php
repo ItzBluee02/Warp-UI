@@ -16,7 +16,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
 use pocketmine\events\Listener;
 
-use pocketmine\command\command;
+use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 
 use BlueyZz\WarpUI\FormAPI\SimpleForm;
