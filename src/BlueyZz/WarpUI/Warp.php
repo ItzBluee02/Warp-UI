@@ -9,7 +9,7 @@ namespace BlueyZz\WarpUI\Warp;
 use pocketmine\player\Player;
 use pocketmine\Server;
 
-use pocketmine\world\world;
+use pocketmine\world\World;
 use pocketmine\world\Position;
 
 use pocketmine\plugin\PluginBase;
