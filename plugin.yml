@@ -1,0 +1,15 @@
+name: Warp-UI
+api: 4.0.0
+version: 1.0
+author: BlueyZz
+main: BlueyZz\WarpUI\Warp
+
+command: 
+ wui: 
+  description: "§bOpen WarpUI"
+  permission: wui.cmd
+  
+permissions:
+ wui.cmd: 
+  description: "Warp-UI"
+  default: true
