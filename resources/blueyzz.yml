@@ -1,0 +1,27 @@
+#plugin bu BlueyZz
+#don't reddit my plugins
+#enjoy
+
+#button exit
+0:
+ Nama: "Close"
+ #Main
+1:
+ x: 277 # koor x
+ y: 65 # koor y
+ z: 221 # koor z
+ world: LOBBY # multiworld [ buat tp ]
+ Nama: "Lobby" # Nama
+ msg: "You Teleported To Lobby" # mess
+ #break
+2:
+ x: 277
+ y: 65
+ z: 277
+ world: LOBBY
+ Nama: "Lobby"
+ msg: "You Teleported To Lobby"
+ 
+ #3:
+ 
+ #4:
