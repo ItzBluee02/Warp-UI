@@ -4,7 +4,7 @@
  * subrek
  */
 
-namespace BlueyZz\WarpUI\Warp;
+namespace BlueyZz\WarpUI;
 
 use pocketmine\player\Player;
 use pocketmine\Server;
